@@ -1,0 +1,16 @@
+body {
+    background-color: #cc8099;
+}
+
+canvas {
+    border: 10px solid #007474;
+    background-color: #99cccc;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 0;
+    font-size: 4em;
+}
